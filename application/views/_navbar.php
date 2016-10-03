@@ -30,13 +30,11 @@
                       </ul>
                 </li>
                 <li>
-                   <a href="">
-                       Account
-                    </a>
+                   <a href="">Profil</a>
                 </li>
                 <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            Dropdown
+                            Menu
                             <b class="caret"></b>
                       </a>
                       <ul class="dropdown-menu">
@@ -50,9 +48,7 @@
                       </ul>
                 </li>
                 <li>
-                    <a href="#">
-                        Log out
-                    </a>
+                    <a href="#">Log out</a>
                 </li>
             </ul>
         </div>
