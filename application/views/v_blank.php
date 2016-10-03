@@ -4,50 +4,33 @@
             <div class="col-md-8">
                 <div class="card">
                     <div class="header">
-                        <h4 class="title">Windows Kiri</h4>
-                        <p class="category">Ini sub judul</p>
+                        <h4 class="title">Judul</h4>
+                        <p class="category">Sub-judul</p>
                     </div>
                     <div class="content">
-                        <h2 class="title">Judul</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                        Aliquam animi magnam vitae doloremque accusantium maiores, 
-                        laudantium mollitia quod. Aliquam vel, 
-                        perspiciatis quasi perferendis voluptate voluptatem tempore! 
-                        Perferendis atque quo eaque facilis alias dolor eveniet asperiores cum saepe 
-                        vero libero corrupti nobis suscipit eius esse sequi, assumenda, 
-                        temporibus nesciunt eos sit provident voluptatum reiciendis quod. 
-                        Nihil autem ad qui, sit sequi.</p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quisquam, quo obcaecati minus. Quis laboriosam, consectetur veniam culpa quisquam deserunt omnis accusantium a temporibus ullam?
                     </div>
                     <div class="footer">
-                        <div class="legend"><i class="fa"></i><i class="fa fa-circle"></i> Legend</div>
-                        <hr>
-                        <div class="stats"><i class="fa"></i><i class="fa fa-info"></i> status</div>
+                        <div class="legend"></div>
+                        <div class="stats"></div>
                     </div>
                 </div>
             </div>
-            
-            <!-- Windows kanan -->
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card">
                     <div class="header">
-                        <h4 class="title">Windows Kiri</h4>
-                        <p class="category">Ini sub judul</p>
+                        <h4 class="title">Judul</h4>
+                        <p class="category">Sub-judul</p>
                     </div>
                     <div class="content">
-                        <h2 class="title">Judul</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                        Aliquam animi magnam vitae doloremque accusantium maiores, 
-                        laudantium mollitia quod. Aliquam vel, 
-                        perspiciatis quasi perferendis.</p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione perspiciatis deleniti nobis nulla animi numquam voluptatem totam architecto, unde vel, eligendi nesciunt sequi, veniam beatae!
                     </div>
                     <div class="footer">
-                        <div class="legend"><i class="fa"></i><i class="fa fa-circle"></i> Legend</div>
-                        <hr>
-                        <div class="stats"><i class="fa"></i><i class="fa fa-info"></i> status</div>
+                        <div class="legend"></div>
+                        <div class="stats"></div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </div>

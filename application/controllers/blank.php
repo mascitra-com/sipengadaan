@@ -9,8 +9,13 @@ class Blank extends MY_Controller {
 		// Load model, library, helper disini
 	}
 
-	public function index()
+    /**
+     *  Menampilkan konten blank
+     */
+    public function index()
 	{
+	    $this->data['title'] = 'Blank Content';
+	    $this->data['content'] = 'v_blank';
 		$this->init('v_blank');
 	}
 }
