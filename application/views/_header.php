@@ -19,7 +19,9 @@
     <link rel="stylesheet" type="text/css" href="<?=base_url()?>assets/css/datatable.css">
     <!--  Light Bootstrap Table core CSS    -->
     <link href="<?=base_url()?>assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+    <!--  PE ICON  -->
     <link href="<?=base_url();?>assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
+    <!--  Font Awesome    -->
     <link rel="stylesheet" type="text/css" href="<?=base_url();?>assets/css/font-awesome.min.css">
 
 </head>
